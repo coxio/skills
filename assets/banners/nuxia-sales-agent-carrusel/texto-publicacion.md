@@ -22,7 +22,7 @@ Desde $1,990 al mes, en pesos mexicanos e IVA incluido. El plan lo elegimos junt
 
 ## Texto alternativo (accesibilidad)
 
-1. Portada: «Así atiende NUXIA Sales Agent. Y cuánto cuesta.»
+1. Portada: «10:47 p. m. Tu prospecto escribió. ¿Quién le contestó?» Así lo atiende NUXIA Sales Agent.
 2. Ejemplo de conversación de WhatsApp: un prospecto pregunta precio y cita a las 10:47 p. m. y el agente responde con horarios.
 3. El prospecto elige las 10:00; el agente confirma la cita y aparece registrada en el calendario.
 4. Aviso para el asesor: el prospecto quiere saber de ortodoncia y la conversación está lista para seguirla.

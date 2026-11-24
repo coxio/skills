@@ -27,7 +27,7 @@ Desde $1,990 al mes, en pesos mexicanos e IVA incluido. El plan lo elegimos junt
 3. El prospecto elige las 10:00; el agente confirma la cita y aparece registrada en el calendario.
 4. Aviso para el asesor: el prospecto quiere saber de ortodoncia y la conversación está lista para seguirla.
 5. Desde $1,990 al mes. El plan lo elegimos juntos en el diagnóstico gratuito. Precios en pesos mexicanos con IVA incluido.
-6. Programa Clientes Fundadores: 50 % menos en la implementación ($4,900 en lugar de $9,900), precio especial 12 meses, hasta el 31/03/2027. Aplica según el plan.
+6. Programa Clientes Fundadores: implementación bonificada al 100 % en paquetes seleccionados, precio especial 12 meses y acompañamiento en el arranque, hasta el 31/03/2027. Sujeto a las condiciones del contrato.
 7. Diagnóstico gratuito de 30 minutos por Google Meet. Escríbenos «DIAGNÓSTICO» por WhatsApp.
 
 ## Antes de publicar

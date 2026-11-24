@@ -32,6 +32,7 @@ Los planes tienen precio público y van desde $1,990 al mes (IVA incluido). Desl
 
 ## Antes de publicar
 
-- [ ] Confirmar la fecha de vigencia de Fundadores y del precio de lanzamiento, y reemplazar el recuadro de la diapositiva 6.
+- [x] Fecha de Fundadores: 31/03/2027 (diapositiva 6).
+- [ ] Confirmar si el precio de lanzamiento de Starter y Business también vence el 31/03/2027.
 - [ ] Que el sitio y la infografía digan la misma fecha.
 - [ ] El enlace del perfil abre WhatsApp con el mensaje «vengo de Instagram».

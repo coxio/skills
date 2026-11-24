@@ -14,7 +14,7 @@ Así lo atiende NUXIA Sales Agent:
 
 Trabaja con tu equipo, no en lugar de tu equipo. La venta la cierras tú.
 
-Los planes tienen precio público y van desde $1,990 al mes (IVA incluido). Desliza para ver cuál te conviene.
+Desde $1,990 al mes, en pesos mexicanos e IVA incluido. El plan lo elegimos juntos: en el diagnóstico gratuito revisamos cuántos mensajes recibes y te decimos cuál conviene.
 
 ¿Quieres verlo con la información de tu negocio? Escríbenos «DIAGNÓSTICO» por WhatsApp (enlace en el perfil) y lo revisamos juntos en 30 minutos, sin compromiso 🧡
 
@@ -26,7 +26,7 @@ Los planes tienen precio público y van desde $1,990 al mes (IVA incluido). Desl
 2. Ejemplo de conversación de WhatsApp: un prospecto pregunta precio y cita a las 10:47 p. m. y el agente responde con horarios.
 3. El prospecto elige las 10:00; el agente confirma la cita y aparece registrada en el calendario.
 4. Aviso para el asesor: el prospecto quiere saber de ortodoncia y la conversación está lista para seguirla.
-5. Planes: Starter $1,990, Growth $3,990 (recomendado) y Business $6,990 al mes, IVA incluido.
+5. Desde $1,990 al mes. El plan lo elegimos juntos en el diagnóstico gratuito. Precios en pesos mexicanos con IVA incluido.
 6. Programa Clientes Fundadores: Growth a $3,990 al mes por 12 meses e implementación de $4,900.
 7. Diagnóstico gratuito de 30 minutos por Google Meet. Escríbenos «DIAGNÓSTICO» por WhatsApp.
 
